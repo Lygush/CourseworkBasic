@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Lygush\Desktop\Netology\HomeWorks\CourseworkBasic\EasternRace\RaceLib;C:\Users\Lygush\Desktop\Netology\HomeWorks\CourseworkBasic\EasternRace\VehicleLib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib;C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\RaceLib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -133,16 +133,16 @@
     <ClCompile Include="Error.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Check.h" />
+    <ClInclude Include="Error.h" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\RaceLib\RaceLib.vcxproj">
       <Project>{30ded86c-d242-4b4d-9312-89533f2edc63}</Project>
     </ProjectReference>
     <ProjectReference Include="..\VehicleLib\VehicleLib.vcxproj">
       <Project>{0dd31a61-4aeb-4b21-8242-fbcbf9750ac8}</Project>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Check.h" />
-    <ClInclude Include="Error.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

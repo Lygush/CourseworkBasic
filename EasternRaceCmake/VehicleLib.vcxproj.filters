@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\LandVehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\AirVehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\Broom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\Camel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\Centaur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\Eagle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\FastCamel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\MagicCarpet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\RoverBoots.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\LandVehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\AirVehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\Broom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\Camel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\Centaur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\Eagle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\FastCamel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\MagicCarpet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\VehicleLib\RoverBoots.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lygush\Desktop\Netology\HomeWorks\HomeWorkBasic\CourseworkBasic\EasternRace\EasternRace\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{92C7A9D7-F65A-3731-900D-A39C9F023FD6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FC911177-21BD-34D1-BE34-C3F195C7EE45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
